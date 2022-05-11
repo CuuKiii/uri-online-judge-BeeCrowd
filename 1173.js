@@ -8,7 +8,7 @@ for (let i = 1; i < 10; i++) {
   console.log(`N[${i}] = ${n[i]}`);
 }
 //outra resolução 
-//var prompt = function(texto) { return lines.shift();};
+var prompt = function(texto) { return lines.shift();};
 
 const num = parseInt(prompt());
 const arr = [num];
