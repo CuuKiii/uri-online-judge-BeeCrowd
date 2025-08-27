@@ -36,10 +36,10 @@ Cada arquivo tem o nome correspondente ao **ID do problema** no BeeCrowd
 
 <p align="center">
   <a href="https://www.beecrowd.com.br/judge/pt/profile/619634">
-    <img src="assets/profile.jpg" alt="Foto de Perfil BeeCrowd" width="150" style="border-radius:50%; margin-right: 20px"/>
+   <img src="assets/profile.png" alt="Foto de Perfil BeeCrowd" width="150" style="border-radius:50%; margin-right: 30px"/>
   </a>
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/619634">
-    <img src="assets/rank.jpg" alt="Rank UNIFOR" width="150" style="border-radius:10%;"/>
+  <a href="https://judge.beecrowd.com/pt/users/university/unifor">
+    <img src="assets/rank.png" alt="Rank BeeCrowd" width="500" style="border-radius:10%;"/>
   </a>
 </p>
 
