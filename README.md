@@ -15,7 +15,7 @@ O objetivo é servir como **guia de estudos** em lógica de programação e algo
 ---
 
 ## 📂 Estrutura do Repositório
-
+```
 📦 uri-online-judge-BeeCrowd
 ┣ 📂 javascript → soluções em JavaScript
 ┣ 📂 java → soluções em Java
@@ -23,7 +23,7 @@ O objetivo é servir como **guia de estudos** em lógica de programação e algo
 ┗ 📜 LICENSE
 Cada arquivo tem o nome correspondente ao **ID do problema** no BeeCrowd  
 (exemplo: `1000.js` ou `1000.java` → problema nº 1000).
-
+```
 ---
 
 ## 🛠️ Tecnologias Utilizadas
