@@ -35,7 +35,7 @@ Cada arquivo tem o nome correspondente ao **ID do problema** no BeeCrowd
 ## 👤 Meu Perfil BeeCrowd
 
 <p align="center">
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/619634">
+  <a href="https://judge.beecrowd.com/pt/profile/619634">
    <img src="assets/profile.jpg" alt="Foto de Perfil BeeCrowd" width="150" style="border-radius:50%; margin-right: 30px"/>
   </a>
   <a href="https://judge.beecrowd.com/pt/users/university/unifor">
@@ -44,6 +44,6 @@ Cada arquivo tem o nome correspondente ao **ID do problema** no BeeCrowd
 </p>
 
 <p align="center">
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/619634">Clique aqui para acessar meu perfil no BeeCrowd</a>
+  <a href="https://judge.beecrowd.com/pt/profile/619634">Clique aqui para acessar meu perfil no BeeCrowd</a>
 </p>
  
